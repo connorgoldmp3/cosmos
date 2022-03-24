@@ -40,7 +40,7 @@ discordChannelID: 450428756855750666
 
 # Don't change anything below here, these are defaults set by GitHub Pages:
 # ======
-theme: minima
+theme: jekyll-theme-slate
 # plugins:
 #   - jekyll-feed
 # exclude:
